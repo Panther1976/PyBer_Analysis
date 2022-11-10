@@ -15,3 +15,8 @@ The above images shows the summary data by city type. We used the total rides fo
 - Total Fares
 - Average Fare per Ride
 - Average Fare per Driver
+
+## Deliverable 2 - Create a multiple line plot that shows the total weekly of the fares for each type of city
+
+<img width="572" alt="Deliverable2" src="https://user-images.githubusercontent.com/106631875/201006900-fde6765f-d95d-4dc6-bc8f-d1b437a15927.png">
+
