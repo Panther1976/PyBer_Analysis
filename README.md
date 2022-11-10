@@ -20,3 +20,12 @@ The above images shows the summary data by city type. We used the total rides fo
 
 <img width="572" alt="Deliverable2" src="https://user-images.githubusercontent.com/106631875/201006900-fde6765f-d95d-4dc6-bc8f-d1b437a15927.png">
 
+## Deliverable 3 - PyBer Analysis
+
+# Results
+
+Ultimately the results tell the story of the population. Rural areas will tend to have fewer rides but higher fares (longer distance), followed by suburban areas with urban areas having the most fares but most likely lower fares per ride (shorter distances). 
+
+# Summary
+
+The results could be clarified more with population information but in general, rural areas are less populated than suburban areas and suburban areas are less populated that urban areas and fewer people mean fewer rides. Generally speaking, rural rides mean longer rides/higer fares, followed by suburban rides (slighly shorter distances) and urban rides (even shorter distances). However, the volume of rides is going to favor the urban drivers based on population.
